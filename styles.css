@@ -1,0 +1,86 @@
+header{
+	background-color: grey;
+	height: 150px;
+	padding: 20px;
+	text-align: center;
+}
+.footer{
+	background-color: #FFA500;
+	height: 500px;
+	padding: 20px;
+	text-align: center;
+}
+.center{
+	padding-top: 1px;
+	padding-bottom: 5px;
+	border-top: 0px;
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: #0ffc22;
+	height: 50px;
+	text-align: center;
+}
+.next1{
+	padding: 3px;
+	padding-bottom: 5px;
+	border-top: 0px;
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: pink;
+	height: 400px;
+	text-align: center;
+}
+.next2{
+	padding: 1px;
+	padding-bottom: 5px;
+	border-top: 0px;
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: pink;
+	height: 300px;
+	text-align: center;
+}
+.next3 {
+	background-color: lightblue;
+    display: flex; /* Використовуємо флексбокс для розташування */
+    justify-content: space-between; /* Розподіляємо простір між блоками */
+    align-items: center;
+	height: 200px;
+	padding: 10px;
+}
+.im1 {
+    background-color: lightblue; /* Колір фону блоку */
+    width: 515px; /* Ширина кожного блоку */
+    height: 225px; /* Висота блоку 100% від контейнера */
+    display: flex; /* Використовуємо флекс для центрування тексту */
+    justify-content: center; /* Центрування по горизонталі */
+    align-items: center; /* Центрування по вертикалі */
+}
+.container {
+	background-color: grey;
+    display: flex; /* Використовуємо флексбокс для розташування */
+    justify-content: space-between; /* Розподіляємо простір між блоками */
+    align-items: center;
+	height: 400px;
+	padding: 10px;
+}
+
+.block {
+    background-color: lightblue; /* Колір фону блоку */
+    width: 360px; /* Ширина кожного блоку */
+    height: 350px; /* Висота блоку 100% від контейнера */
+    display: flex; /* Використовуємо флекс для центрування тексту */
+    justify-content: center; /* Центрування по горизонталі */
+    align-items: center; /* Центрування по вертикалі */
+ }
+.header{
+	background-color: #FFA500;
+	padding: 145px;
+	text-align: center;
+	text-size: 100px;
+}
+footer{
+	background-color: grey;
+	padding: 10px;
+	text-align: center;
+}
